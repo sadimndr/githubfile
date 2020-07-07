@@ -1,2 +1,2 @@
 # githubfile
-first repository for training class
+first repository for training class.
